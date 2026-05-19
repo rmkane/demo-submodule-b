@@ -1,0 +1,14 @@
+{
+    "endpoints": [
+        {
+            "name": "Home",
+            "description": "Display all endpoints",
+            "url": "/"
+        },
+        {
+            "name": "Greeting",
+            "description": "Display a greeting",
+            "url": "/api/v1/greeting"
+        }
+    ]
+}
