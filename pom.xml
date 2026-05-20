@@ -14,7 +14,7 @@
     <packaging>jar</packaging>
 
     <name>Demo Submodule B</name>
-    <description>Demo Submodule B</description>
+    <description>A second submodule for the demo project.</description>
 
     <dependencies>
         <dependency>
